@@ -1,0 +1,8 @@
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\bin\FlexEventsUpcoming.dll.config
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\bin\FlexEventsUpcoming.dll
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\bin\FlexEventsUpcoming.pdb
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\MVC\FlexEventsUpcoming\obj\Debug\NM.Modules.FlexEventsUpcoming.App_LocalResources.Settings.resources
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\MVC\FlexEventsUpcoming\obj\Debug\FlexEventsUpcoming.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\MVC\FlexEventsUpcoming\obj\Debug\FlexEventsUpcoming.dll
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\MVC\FlexEventsUpcoming\obj\Debug\FlexEventsUpcoming.pdb
+C:\inetpub\wwwroot\new.summerfestivalguide.co.uk\DesktopModules\MVC\FlexEventsUpcoming\obj\Debug\FlexEventsUpcoming.csprojResolveAssemblyReference.cache

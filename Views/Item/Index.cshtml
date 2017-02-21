@@ -1,0 +1,21 @@
+﻿@inherits DotNetNuke.Web.Mvc.Framework.DnnWebViewPage<IEnumerable<NM.Modules.FlexEventsUpcoming.Models.Item>>
+
+<div id="Items-@Dnn.ModuleContext.ModuleId">
+    @foreach (var item in Model)
+    {
+        <div style="display: table;width:100%">
+            <div style="display: table-cell;width: 15%">
+                <div><h3>@item.StartDate.ToString("dd")</h3></div>
+                <div>@item.StartDate.ToString("MMM")</div>
+            </div>
+            <div style="display:table-cell">
+                <div style="display: table-row; width: 70%">
+                    <a href="@item.Url">@item.Title</a>
+                </div>
+                <div style="display: table-row; width: 70%">
+                    @item.Location
+                </div>
+            </div>
+        </div>
+    }
+</div>
